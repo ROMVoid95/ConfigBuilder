@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/ROMVoid95/ConfigBuilder.svg)](https://jitpack.io/#ROMVoid95/ConfigBuilder)
+
 # ConfigBuilder
 
 A utility to make maintaining Config files somewhat easier.
