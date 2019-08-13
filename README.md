@@ -35,19 +35,19 @@ Make the config class containing variables with
 ```java
 public class Config {
 
-	@ConfigOption
+	@COption
 	public static boolean ENABLED = true;
 
-	@ConfigOption
+	@COption
 	public static String WELCOME_TEXT = "Hello";
 
-	@ConfigOption
+	@COption
 	public static int MAX_AMOUNT = 10;
 
-	@ConfigOption
+	@COption
 	public static boolean RUN_ON_SUNDAY = true;
 
-	@ConfigOption
+	@COption
 	public static String TYPE_OF_WEATHER = "sunny";
 }
 ```
