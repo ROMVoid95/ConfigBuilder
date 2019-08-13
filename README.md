@@ -23,7 +23,7 @@ To get ConfigBuilder
 <dependency>
 	<groupId>com.github.ROMVoid95</groupId>
 	<artifactId>ConfigBuilder</artifactId>
-	<version>VERSION</version>
+	<version>1.0.0</version>
 </dependency>
 ```
 
