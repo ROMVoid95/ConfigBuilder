@@ -1,4 +1,4 @@
-# ConfigBuilder (@Depreciated | Not Maintained)
+# ConfigBuilder (@Deprecated | Not Maintained)
 
 Please use https://github.com/ROMVoid95/ReadOnlyCfg
 
@@ -28,6 +28,7 @@ To get ConfigBuilder
 Replace VERSION with the latest version.
 
 ## How To Use
+### > EDIT: How to not write a useage section
 Make the config class containing variables with
 
 ```java
@@ -49,7 +50,7 @@ public class Config {
 	public static String TYPE_OF_WEATHER = "sunny";
 }
 ```
-
+### Very un-descriptive 
 somewhere in the application
 
 ```java
@@ -61,7 +62,7 @@ public class Launcher{
 	}
 }
 ```
-
+### Way to go not showing what it actually could be used for
 will generate application.cfg containing:
 
 ```ini
