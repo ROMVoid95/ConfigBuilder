@@ -1,8 +1,6 @@
-[![](https://jitpack.io/v/ROMVoid95/ConfigBuilder.svg)](https://jitpack.io/#ROMVoid95/ConfigBuilder)
+# ConfigBuilder (@Depreciated | Not Maintained)
 
-# ConfigBuilder
-
-A utility to make maintaining Config files somewhat easier.
+Please use https://github.com/ROMVoid95/ReadOnlyCfg
 
 ## Usage
 Make a config class containing public static variables.  
